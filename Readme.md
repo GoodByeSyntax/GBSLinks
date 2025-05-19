@@ -9,6 +9,7 @@ Jai: https://pypi.org/project/JynAi
 
 # **Platforms**
 Youtube: https://www.youtube.com/@GBS.official0
+
 Discord: https://discord.gg/RsfeV3Jw
 
 # **Contact**
