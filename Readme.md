@@ -1,7 +1,10 @@
 # **Coding**
 GBS: https://pypi.org/project/GoodByeSyntax
+
 BLP: https://pypi.org/project/ByteLightProject
+
 JPM: https://pypi.org/project/JynPopMod
+
 Jai: https://pypi.org/project/JynAi
 
 # **Platforms**
