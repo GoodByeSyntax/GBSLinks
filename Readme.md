@@ -1,8 +1,8 @@
 # **Coding**
-https://pypi.org/project/GoodByeSyntax
-https://pypi.org/project/ByteLightProject
-https://pypi.org/project/JynPopMod
-https://pypi.org/project/JynAi
+GBS: https://pypi.org/project/GoodByeSyntax
+BLP: https://pypi.org/project/ByteLightProject
+JPM: https://pypi.org/project/JynPopMod
+Jai: https://pypi.org/project/JynAi
 
 # **Platforms**
 Youtube: https://www.youtube.com/@GBS.official0
